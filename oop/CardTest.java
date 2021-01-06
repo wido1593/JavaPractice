@@ -1,5 +1,9 @@
 package oop;
 
+/**
+ * @author wido1
+ *
+ */
 public class CardTest {
 	
 	public static void main(String args[]) {

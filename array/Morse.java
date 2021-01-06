@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package array;
 import java.util.*;
 public class Morse {
@@ -52,4 +51,3 @@ public class Morse {
 	System.out.println(result);
 }
 }
->>>>>>> 2a11510134ac7322b6d0fe0895d44861eeb5e05a

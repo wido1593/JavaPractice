@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package array;
 
 import java.util.Arrays;
@@ -62,4 +62,3 @@ public class Sort {
 		System.out.println(Arrays.toString(sort));
 	}
 }
->>>>>>> 2a11510134ac7322b6d0fe0895d44861eeb5e05a
